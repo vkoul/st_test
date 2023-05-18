@@ -1,3 +1,2 @@
-# st_test
-Testing streamlit deployment
-# [App link](https://share.streamlit.io/vkoul/st_test/main/app.py)
+Binary CLassification App 
+# 📦[App link](https://vkoul-st-test-app-acn6jv.streamlit.app/)
